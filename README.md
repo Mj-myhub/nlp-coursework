@@ -56,10 +56,10 @@ It also reflects the way I like to approach NLP: not only as a technical field, 
 
 ## Related Projects
 
-- [gpt2-language-acquisition](https://github.com/Mj-myhub/gpt2-language-acquisition) — thesis-based GPT-2 research on child-directed speech
-- [pytorch-nlp-experiments](https://github.com/Mj-myhub/pytorch-nlp-experiments) — practical PyTorch replications and smaller experiments
+- [gpt2-language-acquisition](https://github.com/Mj-myhub/gpt2-language-acquisition) â thesis-based GPT-2 research on child-directed speech
+- [pytorch-nlp-experiments](https://github.com/Mj-myhub/pytorch-nlp-experiments) â practical PyTorch replications and smaller experiments
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/majid-jafari-39010413b/)
-- Email: `m.jeffrey2023@gmail.com`
+- Email: [m.jeffrey2023@gmail.com](mailto:m.jeffrey2023@gmail.com)
